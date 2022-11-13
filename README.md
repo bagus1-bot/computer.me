@@ -630,7 +630,7 @@ https://ge1.livechymde.xyz/hls1/uk_beinsportsenglish2/playlist.m3u8|referer=http
 https://webudi.openhd.lol/lb/premium46/index.m3u8?|Referer=https://olacast.live/
 
 #EXTINF:0 tvg-id=".Channel.us" tvg-logo="https://i.postimg.cc/kX8CjkZx/tv-station-tennis-channel-63.png" group-title="SPORTS",US TENNIS CHANNEL 1
-https://webudi.openhd.lol/lb/premium40/index.m3u8?|Referer=https://olacast.live/
+http://starshare.live:8080/live/076422336696/885599881122/712.ts
 
 #EXTINF:0 tvg-id=".Channel.us" tvg-logo="https://i.postimg.cc/kX8CjkZx/tv-station-tennis-channel-63.png" group-title="SPORTS",US TENNIS CHANNEL 2
 https://d3qg0hadt0dkov.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3sfgyrfz9zduo-prod/amgtennisus/playlist.m3u8
