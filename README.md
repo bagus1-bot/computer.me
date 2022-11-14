@@ -1137,6 +1137,15 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/YCzZVtGn/abu-dhabi-tv.png" group-title="WORLD",AE ABU DHABI TV
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8?stime=20220222140452&etime=20220301215812&token=0c5ccb3c4a3cde0ef5bc1
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Pq34GNwK/qatar-tv-1.png" group-title="SPORTS",QA QATAR TV 1
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master720p.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/Pq34GNwK/qatar-tv-1.png" group-title="SPORTS",QA QATAR TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master720p.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/MHXgkhHf/pg-em-tv.png" group-title="SPORTS",PG EMTV
+https://bcovlive-a.akamaihd.net/4805ddb8014d4ea5a938a8bf0e999416/ap-southeast-2/6267995011001/profile_0/chunklist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://i.postimg.cc/fygTYxZd/hunan-tv-cn.png" group-title="WORLD",CN HUNAN TV
