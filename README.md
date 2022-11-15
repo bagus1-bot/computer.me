@@ -33,17 +33,17 @@ https://live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
 #EXTINF:0 tvg-id="SCTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/fRPxwqDT/sctv.png" group-title="INDONESIA",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://bagustv.000webhostapp.com/sctv.m3u8
+http://210.210.155.35/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-0 tvg-id="Indosiar.id" tvg-name="" tvg-logo="https://i.postimg.cc/pdXX6Rgm/indosiar.png" group-title="INDONESIA",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://bagustv.000webhostapp.com/indosiar.m3u8
+http://210.210.155.35/session/ddcb01dc-5674-11ed-b1c0-b82a72d63267/qwr9ew/s/s04/02.m3u8
 
 #EXTINF:0 tvg-id="TransTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/SxPtwGPc/trans-tv.png" group-title="INDONESIA",TRANS TV
-https://bagustv.000webhostapp.com/trans%20tv.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2089415360_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-id="Trans7.id" tvg-name="" tvg-logo="https://i.postimg.cc/1X6q3yR9/trans-7.png" group-title="INDONESIA",TRANS 7
-https://bagustv.000webhostapp.com/Trans7.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w772852258_b744100_sleng.m3u8
 
 #EXTINF:0 tvg-id="ANTV.id" tvg-name="" tvg-logo="https://i.postimg.cc/dVQLz2CQ/antv.png" group-title="INDONESIA",ANTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
